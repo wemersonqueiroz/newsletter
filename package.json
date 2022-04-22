@@ -1,0 +1,24 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemersonqueiroz/newsletter.git"
+  },
+  "author": "Wemerson Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wemersonqueiroz/newsletter/issues"
+  },
+  "homepage": "https://github.com/wemersonqueiroz/newsletter#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
